@@ -28,10 +28,14 @@ This project demonstrates **supervised machine learning** in its simplest form: 
 ## Project structure
 
 ```
-├── sensor/                # Simulated sensor input sketch
-├── drum-machine/           # Audio output sketch (Minim-based)
-├── wekinator/               # Saved trained Wekinator project
-└── screenshots/            # Demo images
+├── sensor/        <img width="1491" height="917" alt="image" src="https://github.com/user-attachments/assets/6cd350cf-e154-4cd5-a1dc-03074136d06e" />
+        # Simulated sensor input sketch
+├── drum-machine/  <img width="1490" height="920" alt="image" src="https://github.com/user-attachments/assets/d24110d2-b3d5-48e1-8ca8-8ab0f53b8039" />
+         # Audio output sketch (Minim-based)
+├── wekinator/    <img width="785" height="496" alt="image" src="https://github.com/user-attachments/assets/78b191ca-bd5f-48dc-a9ee-8dcbe21263ea" />
+           # Saved trained Wekinator project
+           <img width="1095" height="517" alt="image" src="https://github.com/user-attachments/assets/5e9bfb02-46cb-4c21-990f-0edd09d4652f" />
+
 ```
 
 ## Running it yourself
