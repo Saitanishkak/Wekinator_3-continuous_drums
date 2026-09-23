@@ -46,10 +46,14 @@ This project demonstrates **supervised machine learning** in its simplest form: 
 4. In Wekinator, set up a project with 2 inputs / 3 continuous outputs, then record a few example gestures and train.
 5. Run `drum-machine/Processing_Drum_3ContinuousOutputs.pde` and move your mouse to hear the model respond.
 
-## Demo
+## Demo(how to train and run)
 
-*(Add a screenshot or short screen recording here showing the sensor window, Wekinator, and drum machine running together.)*
+https://screenrec.com/share/nviFecO6JW
 
 ## Background / original inspiration
 
 Based on a tutorial for interfacing a physical MPU6050 gyroscope with Arduino and Wekinator to control music generation. This version adapts the pipeline to run entirely in software for accessibility without requiring hardware components.**
+
+https://maker.pro/wekinator/projects/how-to-play-music-with-an-arduino-accelerometer-and-gyroscope-sensor
+
+Check this website to learn more about training and hardware of the model!
